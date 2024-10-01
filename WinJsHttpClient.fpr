@@ -1,0 +1,8 @@
+library WinJsHttpClient;
+
+uses ChakraHttpClient;
+
+exports GetJsValue;
+
+end.
+
